@@ -1,0 +1,54 @@
+Frequently Ask Questions
+-------------------------------------------------------
+1. How to setup homepage grid like the demo?
+-  go to wp-admin->appeareance->theme options->homepage featured setting->choose category to featured
+
+2. The shadow on top navigation is missing?
+- the shadow will dissapear if background color or image are saved in wp-admin->appeareance->background
+
+3. How to remove the responsive of the theme?
+- go to wp-admin->appeareance->theme options->misc setting->disable responsive
+
+4. I've done everything, save options and setup widget but the site still look the same?
+- if you have any cache plugin installed, clear the cache or your browser cache
+
+5. How to add searchform in top navigation?
+- open header.php and add this near line 71 <?php do_action( 'bp_inside_top_nav' ); ?>
+<div style='float:right;margin:10px 0 0;'><?php echo get_search_form(); ?></div>
+
+6. Where can i custom css style?
+- go to wp-admin->appereance->theme options->custom css->add your style here
+
+7. I want to remove builtin shop style for woocommerce or jigoshop
+- go to wp-admin->appeareance->theme option->shop settings->disable custom shop styles
+
+8. i want to edit or customize the theme template?
+- best or safe solution would be using child theme
+http://codex.wordpress.org/Child_Themes
+
+9. How do i add the menu small descriptions like the demo?
+- follow step 3 in this tutorial
+http://www.dezzain.com/wordpress-tutorials/how-to-use-wordpress-navigation-menus/
+
+10. is the theme multisite support?
+- yes, on 1.5.7+ custom css now under wp-admin->appereance->custom css so no template edit needed which best suitable for multisite enviroment.
+
+11. theme advertisement options did not save my script code?
+- for security reason, we disable script insertion in theme options. however you can use shortcode to insert script in theme option textarea field. i would recon use 'shortcoder' WordPress Plugin. http://wordpress.org/plugins/shortcoder/
+    
+12. Slider not working?
+- make sure you have at least 2 posts featured for the slider to work properly
+ 
+13. i have more question needed to ask?
+- some question sometime already answered by theme author, go to
+http://www.dezzain.com/wordpress-themes/mesocolumn/
+search for comments or search answers in wordpress forums
+http://wordpress.org/support/theme/mesocolumn
+
+14. I need to add custom function to theme? how?
+- create a blank php name meso-custom-functions.php in your wp-content/
+correct path /wp-content/meso-custom-functions.php
+and the theme will auto detect your new functions.
+
+15. My custom css is missing in latest version?
+- using custom-css.css is removed in version 1.6.2, use wp-admin->appereance->theme options->custom css

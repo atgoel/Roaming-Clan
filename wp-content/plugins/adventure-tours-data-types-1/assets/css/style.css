@@ -1,0 +1,194 @@
+.at-title__primary {
+  margin: 0 0 30px 0 !important;
+}
+.at-icon-tick--on {
+  color: green;
+}
+.at-icon-tick--off {
+  color: red;
+}
+.at-tours-type__container {
+  overflow: hidden;
+}
+.at-tours-type__item {
+  width: 100px;
+  height: 100px;
+  line-height: 100px;
+  margin: 0 10px 10px 0;
+  float: left;
+  border: 1px solid #ccc;
+  text-align: center;
+}
+.at-tours-type-icons__container {
+  overflow: hidden;
+}
+.at-tours-type-icons__item {
+  width: 100px;
+  height: 100px;
+  line-height: 100px;
+  margin: 0 10px 10px 0;
+  float: left;
+  border: 1px solid #ccc;
+  border-radius: 100%;
+  text-align: center;
+}
+.at-atgrid__item {
+  margin-bottom: 30px;
+}
+.at-atgrid__item__top {
+  position: relative;
+}
+.at-atgrid__item__top__image-wrap {
+  display: block;
+  border-bottom: none;
+}
+.at-atgrid__item__top__image-wrap:hover {
+  border-bottom: none;
+}
+.at-atgrid__item__price {
+  position: absolute;
+  bottom: 30px;
+  left: 30px;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+.at-atgrid .at-atgrid__item a {
+  border-bottom: none;
+}
+.at-tour-reviews__item {
+  margin-bottom: 30px;
+  overflow: hidden;
+}
+.at-tour-reviews__item:last-child {
+  margin-bottom: 0;
+}
+.at-tour-reviews__item__image-wrap {
+  margin-right: 15px;
+  margin-bottom: 15px;
+  float: left;
+}
+.at-tour-reviews__item__description {
+  clear: both;
+}
+.at-contact-info {
+  overflow: hidden;
+}
+.at-contact-info__item {
+  margin-right: 15px;
+  float: left;
+}
+.at-contact-info__item__icon {
+  margin-right: 5px;
+  float: left;
+}
+.at-contact-info__item__text {
+  float: right;
+}
+.at-social-icons__title {
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+.at-social-icons__icons {
+  overflow: hidden;
+}
+.at-social-icons__icon {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  margin-right: 15px;
+  border-radius: 3px;
+  background: #fcfcfc;
+  color: #fff;
+  text-align: center;
+  border-bottom: none !important;
+}
+.at-social-icons__icon:last-child {
+  margin-right: 0;
+}
+.at-social-icons__icon:hover {
+  color: #fff;
+  border-bottom: none;
+}
+.at-social-icons__icon--facebook {
+  background: #3b5998;
+}
+.at-social-icons__icon--twitter {
+  background: #00acee;
+}
+.at-social-icons__icon--google {
+  background: #dd4b39;
+}
+.at-social-icons__icon--pinterest {
+  background: #c8232c;
+}
+.at-social-icons__icon--linkedin {
+  background: #0e76a8;
+}
+.at-social-icons__icon--instagram {
+  background: #3F729B;
+}
+.at-social-icons__icon--dribbble {
+  background: #ea4c89;
+}
+.at-social-icons__icon--tumblr {
+  background: #5EAB1F;
+}
+.at-social-icons__icon--vk {
+  background: #597DA3;
+}
+.at-last-posts__item {
+  overflow: hidden;
+}
+.at-last-posts__item__image-wrap {
+  display: block;
+  margin: 0 15px 15px 0;
+  float: left;
+  border-bottom: none;
+}
+.at-last-posts__item__image-wrap:hover {
+  border-bottom: none;
+}
+.at-last-posts__item__title {
+  margin: 0 0 15px;
+}
+.at-timeline__item {
+  margin-bottom: 30px;
+  overflow: hidden;
+}
+.at-timeline__item__icon {
+  width: 70px;
+  height: 70px;
+  line-height: 70px;
+  margin: 0 15px 15px 0;
+  float: left;
+  border-radius: 100%;
+  border: 1px solid #ccc;
+  text-align: center;
+  font-weight: bold;
+}
+.at-timeline__item__title {
+  margin: 0 0 15px;
+}
+.at-icons-set__row {
+  margin-bottom: 30px;
+}
+.at-icons-set__row:last-child {
+  margin-bottom: 0;
+}
+.at-icons-set__item {
+  overflow: hidden;
+}
+.at-icons-set__item__icon {
+  font-size: 3em;
+}
+.at-icons-set__item__icon-wrap {
+  margin-right: 15px;
+  float: left;
+}
+.at-icons-set__item__title {
+  margin: 0 0 5px;
+}
+.at-form-block--horizontal .at-form-block__item {
+  display: inline-block;
+}

@@ -1,0 +1,767 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Expedition Pro\n"
+"POT-Creation-Date: 2016-06-27 14:27+0545\n"
+"PO-Revision-Date: 2016-02-18 17:25+0545\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:39
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the "
+"links below or a search?"
+msgstr ""
+
+#: 404.php:48
+msgid "Most Used Categories"
+msgstr ""
+
+#: 404.php:65
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:43 comments.php:64
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:44 comments.php:65
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:91
+msgid "Primary"
+msgstr ""
+
+#: functions.php:92
+msgid "Social Menu"
+msgstr ""
+
+#: inc/customizer/colors/general.php:11
+msgid "Colors"
+msgstr ""
+
+#: inc/customizer/colors/general.php:12
+msgid "Customize colors of you awesome site"
+msgstr ""
+
+#: inc/customizer/colors/general.php:20
+msgid "Basic Colors Options"
+msgstr ""
+
+#: inc/customizer/colors/general.php:28
+msgid "Expedition Colors Reset"
+msgstr ""
+
+#: inc/customizer/colors/general.php:80
+#, php-format
+msgid "%s Hover Color Options %s"
+msgstr ""
+
+#: inc/customizer/colors/general.php:108
+msgid "Site Identity Color"
+msgstr ""
+
+#: inc/customizer/colors/general.php:109
+msgid "Site title and tagline color"
+msgstr ""
+
+#: inc/customizer/colors/general.php:123
+msgid "Section Title Color"
+msgstr ""
+
+#: inc/customizer/colors/general.php:124
+msgid "Each of main section title color"
+msgstr ""
+
+#: inc/customizer/colors/general.php:138
+msgid "Section Sub Title Color"
+msgstr ""
+
+#: inc/customizer/colors/general.php:139
+msgid "Each of main section sub title color"
+msgstr ""
+
+#: inc/customizer/colors/general.php:153
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer/colors/general.php:170
+msgid "Reset"
+msgstr ""
+
+#: inc/customizer/colors/general.php:171
+msgid ""
+"Caution: Reset all above color settings to default. Refresh the page after "
+"save to view the effects. "
+msgstr ""
+
+#: inc/customizer/customizer.php:131 inc/customizer/customizer.php:141
+msgid "Reset All Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:142
+msgid ""
+"Caution: Reset all options settings to default. Refresh the page after "
+"save to view the effects. "
+msgstr ""
+
+#: inc/customizer/featured-slider/enable-slider.php:15
+#: inc/customizer/testimonial/enable-testimonial.php:15
+msgid "Enable Options"
+msgstr ""
+
+#: inc/customizer/featured-slider/enable-slider.php:26
+msgid "Enable Feature Slider"
+msgstr ""
+
+#: inc/customizer/featured-slider/enable-slider.php:28
+msgid "Enable \"Feature slider\" on checked"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-from-category.php:15
+#: inc/customizer/home-trips/trips-from-category.php:16
+#: inc/customizer/testimonial/from-category.php:15
+msgid "Select From Category"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-from-category.php:16
+#: inc/customizer/home-trips/trips-from-category.php:17
+msgid ""
+"This option only work when you have selected \"Category\" in \"settings "
+"Option\"."
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-from-category.php:29
+msgid "Select Category For Slider"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-from-category.php:30
+msgid ""
+"If you have oly choosen category then page you need to select one from here"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-panel.php:6
+msgid "Home/Front Main Slider"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-property.php:23
+msgid "Slider Property"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-property.php:33
+msgid "Single Slider- Number Of Words"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-property.php:34
+msgid "If you do not have selected from - Custom"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-property.php:48
+msgid "Slider Mode"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-property.php:52
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-property.php:53
+msgid "Fade"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-property.php:54
+msgid "Fade-Out"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-property.php:66
+msgid "Enable Arrow"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-property.php:80
+msgid "Enable Pager"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-property.php:94
+msgid "Enable Autoplay"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-settings.php:16
+#: inc/customizer/home-trips/settings-trip-section.php:20
+#: inc/customizer/testimonial/testimonial-options.php:24
+msgid "Settings Options"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-settings.php:27
+msgid "Number Of Slider"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-settings.php:31
+#: inc/customizer/testimonial/testimonial-options.php:55
+msgid "1"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-settings.php:32
+#: inc/customizer/testimonial/testimonial-options.php:56
+msgid "2"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-settings.php:33
+#: inc/customizer/testimonial/testimonial-options.php:57
+msgid "3"
+msgstr ""
+
+#: inc/customizer/font-setting/font-family.php:11
+msgid "Font Setting"
+msgstr ""
+
+#: inc/customizer/font-setting/font-family.php:46
+msgid "Font Family"
+msgstr ""
+
+#: inc/customizer/font-setting/font-family.php:58
+msgid "Body ( paragraph ) Primary"
+msgstr ""
+
+#: inc/customizer/font-setting/font-family.php:59
+msgid "change primary font family"
+msgstr ""
+
+#: inc/customizer/font-setting/font-family.php:75
+msgid "Site Identity/Logo"
+msgstr ""
+
+#: inc/customizer/font-setting/font-family.php:76
+msgid "Site Identity font family"
+msgstr ""
+
+#: inc/customizer/home-about/about-button-section.php:11
+#: inc/customizer/home-trips/settings-trip-section.php:13
+#: inc/hooks/homepage-about.php:73
+msgid "Know More"
+msgstr ""
+
+#: inc/customizer/home-about/about-button-section.php:17
+msgid "Section Settings"
+msgstr ""
+
+#: inc/customizer/home-about/about-button-section.php:31
+msgid "Select Page For About Section"
+msgstr ""
+
+#: inc/customizer/home-about/about-button-section.php:55
+msgid "About Section Button Text"
+msgstr ""
+
+#: inc/customizer/home-about/enable-about-section.php:15
+#: inc/customizer/home-blog/enable-blog-section.php:15
+#: inc/customizer/home-trips/enable-trip-section.php:15
+msgid "Enable Option"
+msgstr ""
+
+#: inc/customizer/home-about/enable-about-section.php:26
+msgid "Enable About Section"
+msgstr ""
+
+#: inc/customizer/home-about/enable-about-section.php:27
+msgid "Enable \"About Section\" on checked"
+msgstr ""
+
+#: inc/customizer/home-about/home-about-panel.php:6
+msgid "Home/Front About Section"
+msgstr ""
+
+#: inc/customizer/home-blog/blog-button-section.php:9
+msgid "Browse more"
+msgstr ""
+
+#: inc/customizer/home-blog/blog-button-section.php:16
+msgid "Buttton settings"
+msgstr ""
+
+#: inc/customizer/home-blog/blog-button-section.php:26
+msgid "Browse All Button Link"
+msgstr ""
+
+#: inc/customizer/home-blog/blog-options.php:9
+msgid "NEWS & ARTICLES"
+msgstr ""
+
+#: inc/customizer/home-blog/blog-options.php:10
+msgid "Stay update with our"
+msgstr ""
+
+#: inc/customizer/home-blog/blog-options.php:18
+msgid "Section settings"
+msgstr ""
+
+#: inc/customizer/home-blog/blog-options.php:29
+#: inc/customizer/home-trips/settings-trip-section.php:33
+#: inc/customizer/testimonial/testimonial-options.php:35
+msgid "Main Title"
+msgstr ""
+
+#: inc/customizer/home-blog/blog-options.php:30
+#: inc/customizer/home-blog/enable-blog-section.php:27
+msgid "Enable \"Blog Section\" on checked"
+msgstr ""
+
+#: inc/customizer/home-blog/blog-options.php:44
+#: inc/customizer/home-trips/settings-trip-section.php:48
+msgid "Sub Title"
+msgstr ""
+
+#: inc/customizer/home-blog/enable-blog-section.php:26
+msgid "Enable Blog"
+msgstr ""
+
+#: inc/customizer/home-blog/home-blog-panel.php:6
+msgid "Home/Front blog Section"
+msgstr ""
+
+#: inc/customizer/home-map/home-map.php:10
+msgid "48.8582641,2.2923184"
+msgstr ""
+
+#: inc/customizer/home-map/home-map.php:17
+msgid "Home/Front Map Section"
+msgstr ""
+
+#: inc/customizer/home-map/home-map.php:27
+msgid "Enable Map Section"
+msgstr ""
+
+#: inc/customizer/home-map/home-map.php:28
+msgid "Enable \"Map Section\" on checked"
+msgstr ""
+
+#: inc/customizer/home-map/home-map.php:43
+msgid "Map Details"
+msgstr ""
+
+#: inc/customizer/home-map/home-map.php:44
+msgid ""
+"Just like the default one please enter in latitude,longitude format eg, "
+"48.8582641,2.2923184"
+msgstr ""
+
+#: inc/customizer/home-trips/enable-trip-section.php:26
+msgid "Enable Popular Trip"
+msgstr ""
+
+#: inc/customizer/home-trips/enable-trip-section.php:28
+msgid "Enable \"Popular Trips Selection\" on checked"
+msgstr ""
+
+#: inc/customizer/home-trips/home-trips-panel.php:6
+msgid "Home/Front Popular Trip"
+msgstr ""
+
+#: inc/customizer/home-trips/settings-trip-section.php:9
+msgid "POPULAR TRIPS"
+msgstr ""
+
+#: inc/customizer/home-trips/settings-trip-section.php:10
+msgid "Take a look at our"
+msgstr ""
+
+#: inc/customizer/home-trips/settings-trip-section.php:63
+msgid "Browse All Button Text"
+msgstr ""
+
+#: inc/customizer/home-trips/trips-from-category.php:29
+msgid "Select Category For Popular Trips"
+msgstr ""
+
+#: inc/customizer/site-identity/site-identity.php:12
+#, php-format
+msgid "%s If you do not have a logo %s"
+msgstr ""
+
+#: inc/customizer/site-identity/site-identity.php:23
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer/site-identity/site-identity.php:27
+msgid "Recommended logo size 165*50"
+msgstr ""
+
+#: inc/customizer/site-identity/site-identity.php:50
+msgid "Enable Title"
+msgstr ""
+
+#: inc/customizer/site-identity/site-identity.php:63
+msgid "Enable Tagline"
+msgstr ""
+
+#: inc/customizer/testimonial/enable-testimonial.php:25
+msgid "Enable Testimonial"
+msgstr ""
+
+#: inc/customizer/testimonial/enable-testimonial.php:26
+msgid "Enable \"Testimonial selection\" on checked"
+msgstr ""
+
+#: inc/customizer/testimonial/from-category.php:16
+msgid ""
+"This option only work when you have selected \"Category\" in \"Settings "
+"Options\"."
+msgstr ""
+
+#: inc/customizer/testimonial/from-category.php:27
+msgid "Select Category For Testimonial"
+msgstr ""
+
+#: inc/customizer/testimonial/testimonial-options.php:9
+msgid "TESTIMONIALS"
+msgstr ""
+
+#: inc/customizer/testimonial/testimonial-options.php:50
+msgid "Number Of Testimonial/s"
+msgstr ""
+
+#: inc/customizer/testimonial/testimonial-options.php:51
+msgid "Choose number of Testimonial to be displayed"
+msgstr ""
+
+#: inc/customizer/testimonial/testimonial-panel.php:6
+msgid "Home/Front Testimonial Section"
+msgstr ""
+
+#: inc/customizer/theme-options/back-to-top.php:13
+msgid "Back To Top Options"
+msgstr ""
+
+#: inc/customizer/theme-options/back-to-top.php:23
+msgid "Enable Back To Top"
+msgstr ""
+
+#: inc/customizer/theme-options/custom-css.php:13
+#: inc/customizer/theme-options/custom-css.php:23
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer/theme-options/footer.php:8
+msgid "Copyright &copy; All right reserved"
+msgstr ""
+
+#: inc/customizer/theme-options/footer.php:13
+msgid "Footer Options"
+msgstr ""
+
+#: inc/customizer/theme-options/footer.php:24
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/theme-options/header.php:15
+msgid "Header Options"
+msgstr ""
+
+#: inc/customizer/theme-options/header.php:25
+msgid "Enable Social"
+msgstr ""
+
+#: inc/customizer/theme-options/header.php:26
+msgid ""
+"Please add Social menus for enabling Social menus. Go to Menus for setting "
+"up"
+msgstr ""
+
+#: inc/customizer/theme-options/header.php:39
+msgid "Default Banner Image"
+msgstr ""
+
+#: inc/customizer/theme-options/header.php:40
+msgid "Please note that this is for individual inner pages"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:17
+msgid "Layout Options"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:28
+msgid "Default Layout"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:29
+msgid "Layout for all archives, single posts and pages"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:33
+msgid "Content - Primary Sidebar"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:34
+msgid "Primary Sidebar - Content"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:35
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:49
+msgid "Number Of Words For Excerpt"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:50
+msgid "This will controll the excerpt length on listing page"
+msgstr ""
+
+#: inc/customizer/theme-options/option-panel.php:6
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/theme-options/search-options.php:15
+msgid "Search Options"
+msgstr ""
+
+#: inc/customizer/theme-options/search-options.php:26
+msgid "Enable Search"
+msgstr ""
+
+#: inc/frameworks/evision-customizer/inc/custom-control/evision-category-control.php:34
+#: inc/frameworks/evision-customizer/inc/custom-control/evision-post-dropdown-control.php:48
+#: inc/frameworks/evision-customizer/inc/custom-control/evision-tags-dropdown-control.php:46
+#: inc/frameworks/evision-customizer/inc/custom-control/evision-user-dropdown-control.php:43
+msgid "Select"
+msgstr ""
+
+#: inc/function/breadcrumb.php:20 inc/function/breadcrumb.php:21
+#, php-format
+msgid "Archive for <em>%s</em>"
+msgstr ""
+
+#: inc/function/breadcrumb.php:22
+#, php-format
+msgid "Search results for: <em>%s</em>"
+msgstr ""
+
+#: inc/function/breadcrumb.php:23
+#, php-format
+msgid "Posts tagged <em>%s</em>"
+msgstr ""
+
+#: inc/function/breadcrumb.php:24
+#, php-format
+msgid "View all posts by <em>%s</em>"
+msgstr ""
+
+#: inc/function/breadcrumb.php:25
+msgid "Error 404"
+msgstr ""
+
+#: inc/function/breadcrumb.php:147
+msgid "Page"
+msgstr ""
+
+#: inc/hooks/footer.php:46
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: inc/hooks/footer.php:48
+#, php-format
+msgid "Theme: %1$s by %2$s"
+msgstr ""
+
+#: inc/hooks/header.php:174
+msgid "Skip to content"
+msgstr ""
+
+#: inc/hooks/homepage-about-testimonial.php:24
+msgid "about-only"
+msgstr ""
+
+#: inc/hooks/homepage-about-testimonial.php:27
+msgid "testimonial-only"
+msgstr ""
+
+#: inc/hooks/homepage-about.php:67
+msgid "About Us"
+msgstr ""
+
+#: inc/hooks/homepage-about.php:69
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+"Lorem Ipsum has been the industry when an unknown to make a type specimen "
+"book."
+msgstr ""
+
+#: inc/hooks/homepage-popular-trip.php:16
+msgid "Popular Trip"
+msgstr ""
+
+#: inc/hooks/homepage-slider.php:15
+msgid "Explore Your Trip"
+msgstr ""
+
+#: inc/hooks/homepage-slider.php:16
+msgid "Let's go wherever you want!"
+msgstr ""
+
+#: inc/hooks/homepage-slider.php:201
+msgid "Search for:"
+msgstr ""
+
+#: inc/hooks/homepage-slider.php:204
+msgid "Search"
+msgstr ""
+
+#: inc/hooks/homepage-testimonial.php:17
+msgid "Sayer Name"
+msgstr ""
+
+#: inc/hooks/homepage-testimonial.php:18
+msgid ""
+"The set doesn't moved. Deep don't fru it fowl gathering heaven days moving "
+"creeping under from i air. Set it fifth Meat was darkness. every bring in "
+"it."
+msgstr ""
+
+#: inc/sidebar-widget-init.php:9
+msgid "Sidebar"
+msgstr ""
+
+#: inc/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:33
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:50 inc/template-tags.php:56
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:52
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:58
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:64
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:64
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:64
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:71 template-parts/content-page.php:38
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: index.php:28
+msgid "Our Latest Post"
+msgstr ""
+
+#: search.php:16 search.php:39
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:27 template-parts/content-single.php:29
+#: template-parts/content.php:51
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:46
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Expedition"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://evisionthemes.com/themes/expedition/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Expedition, a clean and professional WordPress Theme that looks awesome on "
+"any devices. It is really simple to configure the site yourself. No single "
+"coding is required to develop a travel website. Along the amazing layout "
+"this theme is customizable but yet powerful theme options. Some of the "
+"best features are featured post slider, social icons, custom logo, "
+"customizer API, translation ready (compatible with Popular plugin) and "
+"many more."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "eVision Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://evisionthemes.com"
+msgstr ""

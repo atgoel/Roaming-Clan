@@ -1,0 +1,8 @@
+[04-Aug-2018 11:24:50 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/roamin11/public_html/wp-content/themes/adventure-tours/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/roamin11/public_html/wp-content/themes/adventure-tours/index.php on line 10
+[05-Sep-2018 11:25:46 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/roamin11/public_html/wp-content/themes/adventure-tours/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/roamin11/public_html/wp-content/themes/adventure-tours/index.php on line 10

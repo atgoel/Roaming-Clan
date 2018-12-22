@@ -1,0 +1,28 @@
+2018-12-21T06:03:50+00:00 CRITICAL Uncaught Error: Call to a member function get_col() on null in G:\tools\XAMPP\htdocs\stagatgoel\wp-content\plugins\buddypress\bp-members\bp-members-template.php:434
+Stack trace:
+#0 G:\tools\XAMPP\htdocs\stagatgoel\wp-content\plugins\k-elements\shortcodes\templates\buddypress\kleo_product_customer_grid.php(61): bp_customer_members(Array)
+#1 G:\tools\XAMPP\htdocs\stagatgoel\wp-content\plugins\k-elements\shortcodes\shortcodes.php(1176): include('G:\\tools\\XAMPP\\...')
+#2 G:\tools\XAMPP\htdocs\stagatgoel\wp-includes\shortcodes.php(319): kleo_product_customer_grid_func(Array, '', 'kleo_product_cu...')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 G:\tools\XAMPP\htdocs\stagatgoel\wp-includes\shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(icon_t...', 'do_shortcode_ta...', '<p><span style=...')
+#5 G:\tools\XAMPP\htdocs\stagatgoel\wp-includes\class-wp-hook.php(286): do_shortcode('<p><span style=...')
+#6 G:\tools\XAMPP\htdocs\stagatgoel\wp-includes\plugin.php(203): WP_Hook->apply_filters('<p><span style=.
+
+2018-12-21T06:04:37+00:00 CRITICAL Uncaught Error: Call to a member function get_col() on null in G:\tools\XAMPP\htdocs\stagatgoel\wp-content\plugins\buddypress\bp-members\bp-members-template.php:434
+Stack trace:
+#0 G:\tools\XAMPP\htdocs\stagatgoel\wp-content\plugins\k-elements\shortcodes\templates\buddypress\kleo_product_customer_grid.php(61): bp_customer_members(Array)
+#1 G:\tools\XAMPP\htdocs\stagatgoel\wp-content\plugins\k-elements\shortcodes\shortcodes.php(1176): include('G:\\tools\\XAMPP\\...')
+#2 G:\tools\XAMPP\htdocs\stagatgoel\wp-includes\shortcodes.php(319): kleo_product_customer_grid_func(Array, '', 'kleo_product_cu...')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 G:\tools\XAMPP\htdocs\stagatgoel\wp-includes\shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(icon_t...', 'do_shortcode_ta...', '<p><span style=...')
+#5 G:\tools\XAMPP\htdocs\stagatgoel\wp-includes\class-wp-hook.php(286): do_shortcode('<p><span style=...')
+#6 G:\tools\XAMPP\htdocs\stagatgoel\wp-includes\plugin.php(203): WP_Hook->apply_filters('<p><span style=.
+
+2018-12-21T10:17:08+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in G:\tools\XAMPP\htdocs\stagatgoel\wp-content\plugins\yikes-inc-easy-mailchimp-extender\admin\partials\dashboard-widgets\class.list-activity-widget.php:73
+Stack trace:
+#0 G:\tools\XAMPP\htdocs\stagatgoel\wp-admin\includes\template.php(1073): YIKES_Inc_Easy_MailChimp_Dashboard_Widgets->list_stats_dashboard_widget('', Array)
+#1 G:\tools\XAMPP\htdocs\stagatgoel\wp-admin\includes\dashboard.php(230): do_meta_boxes(Object(WP_Screen), 'normal', '')
+#2 G:\tools\XAMPP\htdocs\stagatgoel\wp-admin\index.php(160): wp_dashboard()
+#3 {main}
+  thrown
+

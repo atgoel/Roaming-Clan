@@ -1,0 +1,26 @@
+2018-12-15T06:04:58+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in G:\tools\XAMPP\htdocs\stagatgoel\wp-content\plugins\yikes-inc-easy-mailchimp-extender\admin\partials\dashboard-widgets\class.list-activity-widget.php:73
+Stack trace:
+#0 G:\tools\XAMPP\htdocs\stagatgoel\wp-admin\includes\template.php(1073): YIKES_Inc_Easy_MailChimp_Dashboard_Widgets->list_stats_dashboard_widget('', Array)
+#1 G:\tools\XAMPP\htdocs\stagatgoel\wp-admin\includes\dashboard.php(230): do_meta_boxes(Object(WP_Screen), 'normal', '')
+#2 G:\tools\XAMPP\htdocs\stagatgoel\wp-admin\index.php(160): wp_dashboard()
+#3 {main}
+  thrown
+
+2018-12-15T09:12:32+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-12-15T09:13:09+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-12-15T09:31:44+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-12-15T09:33:35+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-12-15T09:34:38+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-12-15T09:35:58+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-12-15T09:37:08+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-12-15T11:40:33+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-12-15T11:52:31+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 13443632 bytes)
+

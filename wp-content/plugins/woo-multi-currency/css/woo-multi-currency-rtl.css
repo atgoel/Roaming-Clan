@@ -1,0 +1,7 @@
+.woo-multi-currency.wmc-sidebar.wmc-right .wmc-list-currencies .wmc-currency span{
+	float: left;
+}
+.woo-multi-currency.wmc-price-switcher .wmc-sub-currency{
+	right: 0;
+	left: auto;
+}

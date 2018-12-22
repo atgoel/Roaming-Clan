@@ -1,0 +1,45 @@
+.currencyconverter-minimalistic-widget-settings-palettes {
+  margin: 0 -10px -10px 0;
+}
+.currencyconverter-minimalistic-widget-settings-palettes .color-grid {
+  display: inline-block;
+  overflow: hidden;
+  border-radius: 4px;
+  margin: 0 10px 10px 0;
+  cursor: pointer;
+}
+.currencyconverter-minimalistic-widget-settings-palettes .color-grid-gradient {
+  background-color: #f3f3f3;
+  color: #929292;
+}
+.currencyconverter-minimalistic-widget-settings-palettes .currencyconverter-minimalistic-container {
+  display: block;
+  width: 72px;
+  max-width: 100%;
+  height: 50px;
+  padding: 6px 10px;
+  border-radius: 4px;
+}
+.currencyconverter-minimalistic-ver2-widget-settings-palettes {
+  margin: 0 -10px -10px 0;
+}
+.currencyconverter-minimalistic-ver2-widget-settings-palettes .color-grid {
+  display: inline-block;
+  overflow: hidden;
+  border-radius: 4px;
+  margin: 0 10px 10px 0;
+  cursor: pointer;
+}
+.currencyconverter-minimalistic-ver2-widget-settings-palettes .color-grid-gradient {
+  background-color: #f3f3f3;
+  color: #929292;
+}
+.currencyconverter-minimalistic-ver2-widget-settings-palettes .currencyconverter-minimalistic-ver2-container {
+  display: block;
+  width: 72px;
+  max-width: 100%;
+  height: 50px;
+  padding: 6px 10px;
+  border-radius: 4px;
+}
+/*# sourceMappingURL=backend.css.map */

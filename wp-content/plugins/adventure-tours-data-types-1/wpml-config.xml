@@ -1,0 +1,10 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">faq</custom-type>
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">tour_category</taxonomy>
+		<taxonomy translate="1">media_category</taxonomy>
+		<taxonomy translate="1">faq_category</taxonomy>
+	</taxonomies>
+</wpml-config>

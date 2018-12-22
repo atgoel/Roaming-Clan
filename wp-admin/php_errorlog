@@ -1,0 +1,16 @@
+[01-Aug-2018 08:56:10 UTC] ERROR PostmanWpMail: Exception code=0 message=Invalid "To" e-mail address "<>"
+[05-Sep-2018 06:27:56 UTC] ERROR PostmanWpMail: Exception code=0 message=Invalid "To" e-mail address "<>"
+[25-Sep-2018 05:29:12 UTC] ERROR PostmanGoogleAuthenticationManager: deleted_client processing response: The OAuth client was deleted.
+[25-Sep-2018 05:29:12 UTC] ERROR PostmanWpMail: Exception code=0 message=The OAuth client was deleted.(deleted_client)
+[25-Sep-2018 05:29:12 UTC] ERROR PostmanGoogleAuthenticationManager: deleted_client processing response: The OAuth client was deleted.
+[25-Sep-2018 05:29:12 UTC] ERROR PostmanWpMail: Exception code=0 message=The OAuth client was deleted.(deleted_client)
+[26-Sep-2018 09:25:23 UTC] ERROR PostmanGoogleAuthenticationManager: deleted_client processing response: The OAuth client was deleted.
+[26-Sep-2018 09:25:23 UTC] ERROR PostmanWpMail: Exception code=0 message=The OAuth client was deleted.(deleted_client)
+[26-Sep-2018 09:25:23 UTC] ERROR PostmanGoogleAuthenticationManager: deleted_client processing response: The OAuth client was deleted.
+[26-Sep-2018 09:25:23 UTC] ERROR PostmanWpMail: Exception code=0 message=The OAuth client was deleted.(deleted_client)
+[26-Sep-2018 10:01:37 UTC] ERROR PostmanGoogleAuthenticationManager: deleted_client processing response: The OAuth client was deleted.
+[26-Sep-2018 10:01:37 UTC] ERROR PostmanWpMail: Exception code=0 message=The OAuth client was deleted.(deleted_client)
+[26-Sep-2018 10:01:42 UTC] ERROR PostmanGoogleAuthenticationManager: deleted_client processing response: The OAuth client was deleted.
+[26-Sep-2018 10:01:42 UTC] ERROR PostmanWpMail: Exception code=0 message=The OAuth client was deleted.(deleted_client)
+[26-Sep-2018 10:02:00 UTC] ERROR PostmanGoogleAuthenticationManager: deleted_client processing response: The OAuth client was deleted.
+[26-Sep-2018 10:02:00 UTC] ERROR PostmanWpMail: Exception code=0 message=The OAuth client was deleted.(deleted_client)

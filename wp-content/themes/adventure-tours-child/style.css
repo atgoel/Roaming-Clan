@@ -1,0 +1,41 @@
+/*
+	Theme Name: Adventure Tours Child
+	Theme URI: http://themeforest.net/user/themedelight/portfolio
+	Description: Adventure Tours child theme
+	Template: adventure-tours
+	Version: 1.0.0
+*/
+
+.wp-social-login-provider-list a {
+    background: #5472d2;
+    color: white;
+    padding: 10px;
+    margin: 2px;
+}
+a.wp-social-login-provider.wp-social-login-provider-facebook {
+    margin: 20px;
+    padding: 10px 75px;
+}
+.wp-social-login-provider-list a {
+    background: #3b5998;
+    color: white;
+    padding: 10px;
+}
+input.woocommerce-Button.button {
+    height: 45px;
+    line-height: 45px;
+    margin: 0;
+    padding: 0 20px;
+    border: none !important;
+    color: #fff;
+    text-transform: uppercase;
+    background: rgba(237,133,38,0.8) !important;
+    -webkit-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+span.or-break {
+    text-align: center;
+    margin-top: 12px;
+    text-transform: lowercase;
+}

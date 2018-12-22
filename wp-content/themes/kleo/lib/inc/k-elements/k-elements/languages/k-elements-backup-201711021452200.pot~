@@ -1,0 +1,140 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-02 14:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: shortcodes/shortcodes.php:1473
+msgid "You need to install bbPress plugin to enable this shortcode!"
+msgstr ""
+
+#: shortcodes/templates/kleo_login.php:16
+msgid "Log in with your credentials"
+msgstr ""
+
+#: shortcodes/templates/kleo_login.php:17
+msgid "Forgot your details?"
+msgstr ""
+
+#: shortcodes/templates/kleo_login.php:74
+msgid "or"
+msgstr ""
+
+#: shortcodes/templates/kleo_login.php:76
+msgid "Create an account"
+msgstr ""
+
+#: shortcodes/templates/kleo_login.php:83
+#: shortcodes/templates/kleo_register.php:65
+#: shortcodes/templates/kleo_register.php:91
+msgid "Username"
+msgstr ""
+
+#: shortcodes/templates/kleo_login.php:84
+msgid "Password"
+msgstr ""
+
+#: shortcodes/templates/kleo_login.php:86
+msgid "Sign in"
+msgstr ""
+
+#: shortcodes/templates/kleo_login.php:88
+msgid "Remember me"
+msgstr ""
+
+#: shortcodes/templates/kleo_login.php:105
+msgid "Username or Email"
+msgstr ""
+
+#: shortcodes/templates/kleo_login.php:107
+msgid "Reset Password"
+msgstr ""
+
+#: shortcodes/templates/kleo_login.php:108
+msgid "I remember my details"
+msgstr ""
+
+#: shortcodes/templates/kleo_news_puzzle.php:13
+#: shortcodes/templates/kleo_news_ticker.php:13
+msgid "Visual composer must be installed"
+msgstr ""
+
+#: shortcodes/templates/kleo_register.php:15
+msgid "Create Account"
+msgstr ""
+
+#: shortcodes/templates/kleo_register.php:69
+msgid "Your full name"
+msgstr ""
+
+#: shortcodes/templates/kleo_register.php:74
+#: shortcodes/templates/kleo_register.php:95
+msgid "Your email"
+msgstr ""
+
+#: shortcodes/templates/kleo_register.php:79
+msgid "Desired password"
+msgstr ""
+
+#: shortcodes/templates/kleo_register.php:84
+msgid "Confirm password"
+msgstr ""
+
+#: shortcodes/templates/kleo_register.php:107
+msgid "Register"
+msgstr ""
+
+#: shortcodes/templates/buddypress/kleo_bp_activity_page.php:37
+#: shortcodes/templates/buddypress/kleo_bp_activity_stream.php:124
+msgid ""
+"This shortcode must have Buddypress installed and activity component "
+"activated."
+msgstr ""
+
+#: shortcodes/templates/buddypress/kleo_bp_activity_stream.php:111
+msgid "Right now there is no activity to show"
+msgstr ""
+
+#: shortcodes/templates/buddypress/kleo_bp_groups_carousel.php:72
+#: shortcodes/templates/buddypress/kleo_bp_groups_masonry.php:89
+msgid "There are no groups to display. Please try again soon."
+msgstr ""
+
+#: shortcodes/templates/buddypress/kleo_bp_groups_carousel.php:78
+#: shortcodes/templates/buddypress/kleo_bp_groups_grid.php:71
+#: shortcodes/templates/buddypress/kleo_bp_groups_masonry.php:95
+#: shortcodes/templates/buddypress/kleo_bp_members_carousel.php:79
+#: shortcodes/templates/buddypress/kleo_bp_members_grid.php:69
+#: shortcodes/templates/buddypress/kleo_bp_members_masonry.php:84
+msgid "This shortcode must have Buddypress installed to work."
+msgstr ""
+
+#: shortcodes/templates/buddypress/kleo_bp_groups_grid.php:66
+msgid "No groups were found at the moment. Please come back later."
+msgstr ""
+
+#. Name of the plugin
+msgid "K Elements"
+msgstr ""
+
+#. Description of the plugin
+msgid "WordPress elements using easy to add shortcodes"
+msgstr ""
+
+#. Author of the plugin
+msgid "SeventhQueen"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://seventhqueen.com/"
+msgstr ""

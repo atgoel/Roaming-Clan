@@ -1,0 +1,37 @@
+[
+    {
+        "name": "tburial/html-table-generator",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "git@github.com:tburial/html-table-generator.git",
+            "reference": "a12bd09fecccdd6ae5b3c97407d67388fd783d41"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/tburial/html-table-generator/zipball/a12bd09fecccdd6ae5b3c97407d67388fd783d41",
+            "reference": "a12bd09fecccdd6ae5b3c97407d67388fd783d41",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "time": "2013-08-08 17:46:11",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-0": {
+                "HtmlTableGenerator": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "authors": [
+            {
+                "name": "Terry Harmon",
+                "email": "terryharmon@fivegen.com"
+            }
+        ],
+        "description": "port of http://ellislab.com/codeigniter/user-guide/libraries/table.html"
+    }
+]

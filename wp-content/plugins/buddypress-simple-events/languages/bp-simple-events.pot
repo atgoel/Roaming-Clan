@@ -1,0 +1,486 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bp-simple-events\n"
+"POT-Creation-Date: 2015-03-29 06:05-0800\n"
+"PO-Revision-Date: 2015-03-29 06:05-0800\n"
+"Last-Translator: \n"
+"Language-Team: PhiloPress\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e;_n:1,2;_x:1,2c;_\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../loader.php:135
+msgid ""
+"Your server does not include the GD or Imagick extensions. Event Image "
+"Methods Not Supported. If you want Events images, please contact your "
+"hosting support."
+msgstr ""
+
+#: ../loader.php:160 ../loader.php:172 ../loader.php:173
+#: ../inc/pp-events-core.php:9 ../inc/pp-events-core.php:60
+#: ../inc/pp-events-core.php:62 ../inc/pp-events-core.php:144
+#: ../inc/pp-events-functions.php:26 ../inc/pp-events-functions.php:27
+#: ../inc/pp-events-groups.php:22 ../inc/pp-events-groups.php:27
+#: ../inc/pp-events-notifications.php:16 ../inc/pp-events-widget.php:81
+msgid "Events"
+msgstr ""
+
+#: ../loader.php:161
+msgid "Event"
+msgstr ""
+
+#: ../loader.php:162
+msgid "Add New"
+msgstr ""
+
+#: ../loader.php:163
+msgid "Add New Event"
+msgstr ""
+
+#: ../loader.php:164
+msgid "Edit"
+msgstr ""
+
+#: ../loader.php:165 ../inc/pp-events-screens.php:29
+msgid "Edit Event"
+msgstr ""
+
+#: ../loader.php:166
+msgid "New Event"
+msgstr ""
+
+#: ../loader.php:167
+msgid "View Events"
+msgstr ""
+
+#: ../loader.php:168
+msgid "View Event"
+msgstr ""
+
+#: ../loader.php:169
+msgid "Search Events"
+msgstr ""
+
+#: ../loader.php:170
+msgid "No Events found"
+msgstr ""
+
+#: ../loader.php:171
+msgid "No Events found in Trash"
+msgstr ""
+
+#: ../loader.php:174 ../inc/pp-events-functions.php:30
+#, php-format
+msgid "%1$s created a new <a href=\"%2$s\">Event</a>"
+msgstr ""
+
+#: ../loader.php:175 ../inc/pp-events-functions.php:31
+#, php-format
+msgid "%1$s created a new <a href=\"%2$s\">Event</a>, on the site %3$s"
+msgstr ""
+
+#: ../inc/pp-events-attending.php:20 ../inc/pp-events-attending.php:56
+#: ../inc/pp-events-attending.php:59
+msgid "I want to attend"
+msgstr ""
+
+#: ../inc/pp-events-attending.php:23 ../inc/pp-events-attending.php:57
+msgid "Cancel my attendance"
+msgstr ""
+
+#: ../inc/pp-events-core.php:62
+#, php-format
+msgid "Search %s..."
+msgstr ""
+
+#: ../inc/pp-events-core.php:81
+#, php-format
+msgid "Events <span class=\"%s\">%s</span>"
+msgstr ""
+
+#: ../inc/pp-events-core.php:153
+msgid "Upcoming"
+msgstr ""
+
+#: ../inc/pp-events-core.php:161
+msgid "Archive"
+msgstr ""
+
+#: ../inc/pp-events-core.php:169
+msgid "Create"
+msgstr ""
+
+#: ../inc/pp-events-create-class.php:265
+msgid "Please use your own profile to create or edit Events."
+msgstr ""
+
+#: ../inc/pp-events-create-class.php:314
+msgid "Event was saved."
+msgstr ""
+
+#: ../inc/pp-events-create-class.php:316
+msgid ""
+"Event was saved. But your image was not a jpg and was not saved. Edit your "
+"event to add an image."
+msgstr ""
+
+#: ../inc/pp-events-create-class.php:329
+#: ../templates/members/single/profile-events-create.php:16
+msgid "Title"
+msgstr ""
+
+#: ../inc/pp-events-create-class.php:332
+#: ../templates/members/single/profile-events-create.php:21
+msgid "Description"
+msgstr ""
+
+#: ../inc/pp-events-create-class.php:337
+#: ../inc/admin/pp-events-admin-settings.php:121
+#: ../inc/admin/pp-events-admin.php:438 ../templates/events-loop.php:78
+#: ../templates/single-event.php:125
+#: ../templates/groups/single/group-events-loop.php:84
+#: ../templates/members/single/profile-events-archive.php:80
+#: ../templates/members/single/profile-events-create.php:26
+#: ../templates/members/single/profile-events-loop.php:82
+msgid "Date"
+msgstr ""
+
+#: ../inc/pp-events-create-class.php:340
+#: ../inc/admin/pp-events-admin-settings.php:123
+#: ../templates/events-loop.php:81 ../templates/single-event.php:128
+#: ../templates/groups/single/group-events-loop.php:87
+#: ../templates/members/single/profile-events-archive.php:83
+#: ../templates/members/single/profile-events-create.php:31
+#: ../templates/members/single/profile-events-loop.php:85
+msgid "Time"
+msgstr ""
+
+#: ../inc/pp-events-create-class.php:343
+#: ../inc/admin/pp-events-admin-settings.php:125
+#: ../inc/admin/pp-events-admin.php:56 ../inc/admin/pp-events-admin.php:439
+#: ../templates/events-loop.php:84 ../templates/single-event.php:131
+#: ../templates/groups/single/group-events-loop.php:90
+#: ../templates/members/single/profile-events-archive.php:86
+#: ../templates/members/single/profile-events-create.php:36
+#: ../templates/members/single/profile-events-loop.php:88
+msgid "Location"
+msgstr ""
+
+#: ../inc/pp-events-create-class.php:346
+#: ../inc/admin/pp-events-admin-settings.php:127
+#: ../templates/events-loop.php:87 ../templates/single-event.php:134
+#: ../templates/groups/single/group-events-loop.php:93
+#: ../templates/members/single/profile-events-archive.php:89
+#: ../templates/members/single/profile-events-create.php:41
+#: ../templates/members/single/profile-events-loop.php:91
+msgid "Url"
+msgstr ""
+
+#: ../inc/pp-events-create-class.php:349
+#: ../inc/admin/pp-events-admin-settings.php:129
+#: ../templates/members/single/profile-events-create.php:67
+msgid "Categories"
+msgstr ""
+
+#: ../inc/pp-events-create-class.php:353
+#: ../inc/admin/pp-events-admin-settings.php:97
+#: ../inc/admin/pp-events-admin-settings.php:133
+#: ../inc/admin/pp-events-admin.php:62
+#: ../templates/members/single/profile-events-create.php:108
+msgid "Groups"
+msgstr ""
+
+#: ../inc/pp-events-create-class.php:356
+#: ../inc/admin/pp-events-admin-settings.php:136
+msgid "Image"
+msgstr ""
+
+#: ../inc/pp-events-create-class.php:359
+msgid "Image not a jpg"
+msgstr ""
+
+#: ../inc/pp-events-create-class.php:540 ../inc/admin/pp-events-admin.php:414
+#, php-format
+msgid "%1$s created a new <a href=\"%2$s\">Event</a> in the group %3$s"
+msgstr ""
+
+#: ../inc/pp-events-groups.php:43
+msgid ""
+"Please go to Manage > Events and check the box so that all Group members can "
+"see the \"Events\" tab and Events can be displayed for this Group."
+msgstr ""
+
+#: ../inc/pp-events-groups.php:50
+msgid "Group Events"
+msgstr ""
+
+#: ../inc/pp-events-groups.php:54 ../inc/admin/pp-events-admin.php:478
+msgid "Allow group members to assign Events to this group."
+msgstr ""
+
+#: ../inc/pp-events-notifications.php:17
+msgid "Yes"
+msgstr ""
+
+#: ../inc/pp-events-notifications.php:18
+msgid "No"
+msgstr ""
+
+#: ../inc/pp-events-notifications.php:25
+msgid "A member decides to attend or not attend one of your Events"
+msgstr ""
+
+#: ../inc/pp-events-notifications.php:71
+msgid "Multiple Event Attenders"
+msgstr ""
+
+#: ../inc/pp-events-notifications.php:72
+#, php-format
+msgid "%d new Event Attendees"
+msgstr ""
+
+#: ../inc/pp-events-notifications.php:76
+#, php-format
+msgid "%s is attending your Event"
+msgstr ""
+
+#: ../inc/pp-events-notifications.php:78
+#, php-format
+msgid "%s is not attending your Event"
+msgstr ""
+
+#: ../inc/pp-events-notifications.php:136
+msgid "is attending your Event"
+msgstr ""
+
+#: ../inc/pp-events-notifications.php:138
+msgid "is not attending your Event"
+msgstr ""
+
+#: ../inc/pp-events-notifications.php:142
+#, php-format
+msgid "%s %s"
+msgstr ""
+
+#: ../inc/pp-events-notifications.php:146
+#, php-format
+msgid ""
+"%s %s\n"
+"\n"
+"To see %s's profile: %s\n"
+"\n"
+"Event: %s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+
+#: ../inc/pp-events-notifications.php:158
+#, php-format
+msgid "To disable these notifications please log in and go to: %s"
+msgstr ""
+
+#: ../inc/pp-events-screens.php:31
+msgid "Create an Event"
+msgstr ""
+
+#: ../inc/pp-events-widget.php:10
+msgid "BuddyPress Simple Events Widget"
+msgstr ""
+
+#: ../inc/pp-events-widget.php:13
+msgctxt "widget name"
+msgid "Events"
+msgstr ""
+
+#: ../inc/pp-events-widget.php:90
+msgid "Title:"
+msgstr ""
+
+#: ../inc/pp-events-widget.php:92
+msgid "Max Events to show:"
+msgstr ""
+
+#: ../inc/admin/pp-events-admin-settings.php:23
+msgid "BP Simple Events"
+msgstr ""
+
+#: ../inc/admin/pp-events-admin-settings.php:44
+msgid "Assign User Roles"
+msgstr ""
+
+#: ../inc/admin/pp-events-admin-settings.php:46
+msgid "Which roles can create Events?"
+msgstr ""
+
+#: ../inc/admin/pp-events-admin-settings.php:78
+msgid "Save Roles"
+msgstr ""
+
+#: ../inc/admin/pp-events-admin-settings.php:84
+msgid "Settings"
+msgstr ""
+
+#: ../inc/admin/pp-events-admin-settings.php:90
+msgid "Profile"
+msgstr ""
+
+#: ../inc/admin/pp-events-admin-settings.php:93
+msgid "Tab Position <em>Numbers only.</em>"
+msgstr ""
+
+#: ../inc/admin/pp-events-admin-settings.php:100
+msgid "Give Groups the option to assign Events"
+msgstr ""
+
+#: ../inc/admin/pp-events-admin-settings.php:102
+msgid ""
+"If selected, each group can decide if members can assign an Event to that "
+"group."
+msgstr ""
+
+#: ../inc/admin/pp-events-admin-settings.php:106
+msgid "Required Fields"
+msgstr ""
+
+#: ../inc/admin/pp-events-admin-settings.php:107
+msgid "Select fields to be required when creating an Event."
+msgstr ""
+
+#: ../inc/admin/pp-events-admin-settings.php:144
+msgid "Save Settings"
+msgstr ""
+
+#: ../inc/admin/pp-events-admin-settings.php:209
+msgid "User Roles have been updated."
+msgstr ""
+
+#: ../inc/admin/pp-events-admin-settings.php:214
+msgid "No changes were detected re User Roles."
+msgstr ""
+
+#: ../inc/admin/pp-events-admin-settings.php:260
+msgid "Settings have been updated."
+msgstr ""
+
+#: ../inc/admin/pp-events-admin.php:54
+msgid "Date / Time"
+msgstr ""
+
+#: ../inc/admin/pp-events-admin.php:58
+msgid "URL"
+msgstr ""
+
+#: ../inc/admin/pp-events-admin.php:60
+#: ../templates/members/single/profile-events-create.php:83
+msgid "Attending Options"
+msgstr ""
+
+#: ../inc/admin/pp-events-admin.php:79
+msgid "Event Date:"
+msgstr ""
+
+#: ../inc/admin/pp-events-admin.php:83
+msgid "Event Time:"
+msgstr ""
+
+#: ../inc/admin/pp-events-admin.php:101
+msgid "Event Url:"
+msgstr ""
+
+#: ../inc/admin/pp-events-admin.php:123 ../inc/admin/pp-events-admin.php:128
+msgid "Event Location:"
+msgstr ""
+
+#: ../inc/admin/pp-events-admin.php:156
+#: ../templates/members/single/profile-events-create.php:85
+msgid "Add an \"I want to attend\" button on single event pages."
+msgstr ""
+
+#: ../inc/admin/pp-events-admin.php:160
+#: ../templates/members/single/profile-events-create.php:88
+msgid ""
+"Show a list of attendees on single event pages. The list will only be "
+"visible to you."
+msgstr ""
+
+#: ../inc/admin/pp-events-admin.php:164
+#: ../templates/members/single/profile-events-create.php:91
+msgid ""
+"Receive a Notification when a member decides to attend or not attend your "
+"event."
+msgstr ""
+
+#: ../inc/admin/pp-events-admin.php:213
+msgid "There are no Groups that have selected to allow Event assignment."
+msgstr ""
+
+#: ../inc/admin/pp-events-admin.php:468
+msgctxt "group admin edit screen"
+msgid "Group Events"
+msgstr ""
+
+#: ../templates/single-event.php:74
+msgid "Attendees:"
+msgstr ""
+
+#: ../templates/single-event.php:171
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: ../templates/single-event.php:173
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#: ../templates/members/single/profile-events-create.php:26
+#: ../templates/members/single/profile-events-create.php:31
+#: ../templates/members/single/profile-events-create.php:36
+#: ../templates/members/single/profile-events-create.php:41
+#: ../templates/members/single/profile-events-create.php:67
+#: ../templates/members/single/profile-events-create.php:108
+#: ../templates/members/single/profile-events-create.php:127
+msgid "*"
+msgstr ""
+
+#: ../templates/members/single/profile-events-create.php:27
+msgid "Click to add Date..."
+msgstr ""
+
+#: ../templates/members/single/profile-events-create.php:32
+msgid "Click to add Time..."
+msgstr ""
+
+#: ../templates/members/single/profile-events-create.php:37
+msgid "Start typing location name..."
+msgstr ""
+
+#: ../templates/members/single/profile-events-create.php:42
+msgid "Add an Event-related Url..."
+msgstr ""
+
+#: ../templates/members/single/profile-events-create.php:127
+msgid "Image ( jpg only  )"
+msgstr ""
+
+#: ../templates/members/single/profile-events-create.php:135
+msgid "Image: ( jpg only  )"
+msgstr ""
+
+#: ../templates/members/single/profile-events-create.php:139
+msgid "Current Image:"
+msgstr ""
+
+#: ../templates/members/single/profile-events-create.php:143
+msgid "Delete the Image?"
+msgstr ""
+
+#: ../templates/members/single/profile-events-create.php:161
+msgid " SAVE "
+msgstr ""

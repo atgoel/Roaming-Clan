@@ -1,0 +1,1427 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: themes\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-26 02:06+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\dezzain\\demo\\wp-content\\themes"
+"\\mesocolumn\n"
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/404.php:13
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/breadcrumbs.php:229
+msgid "Error 404"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/404.php:16
+msgid "The page you requested cannot be found!"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/404.php:17
+msgid "Perhaps you are here because:"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/404.php:19
+msgid "The page has moved"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/404.php:20
+msgid "The page url has been change"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/404.php:21
+msgid "The page no longer exist"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/404.php:23
+#, php-format
+msgid ""
+"Don't worry, we are still here, just <a href='%s'>click here</a> to go back "
+"to civilization."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/comments.php:7
+msgid "No Comments Yet"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/comments.php:7
+msgid "1 Comment Already"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/comments.php:7
+msgid "% Comments Already"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/comments.php:12
+msgid "stay updated with"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/comments.php:12
+msgid "Subscribe to comments feed"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/comments.php:43
+msgid "Sorry, comments are close for this post"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/footer.php:77
+msgid "Copyright &copy;"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/footer.php:77
+msgid "Y"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/functions.php:31
+msgid "Top Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/functions.php:32
+msgid "Primary Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/functions.php:33
+msgid "Footer Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/functions.php:91
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/breadcrumbs.php:6
+msgid "Home"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/functions.php:316
+#, php-format
+msgid ""
+"<div class=\"error\"><p>Custom.css found in your theme, please copy paste "
+"your <a href=\"%1$s\">custom.css</a> content into wp-admin->appeareance-"
+">custom css and then delete/moved the custom.css file.</p></div>"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/functions.php:325
+msgid ""
+"<div class=\"error\"><p>Theme Options database need to update! resave your "
+"theme options, category color, page color and custom css options one by one</"
+"p></div>"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/image.php:18
+msgid "&larr; Previous"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/image.php:19
+msgid "Next &rarr;"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/image.php:32
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</"
+"a>."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/image.php:43
+msgid "Edit"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/page.php:29
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/single.php:38
+msgid "...more &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/sidebar.php:47
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/buddypress/bp-searchform.php:7
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/buddypress/bp-widgets-functions.php:27
+msgid "Search"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/sidebar.php:51
+msgid "Recent Posts"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/sidebar.php:55
+msgid "Pages"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/sidebar.php:59
+msgid "Tags"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/buddypress/bp-loginform.php:13
+msgid "Log Out"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/buddypress/bp-loginform.php:35
+msgid "Username"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/buddypress/bp-loginform.php:38
+msgid "Password"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/buddypress/bp-loginform.php:41
+msgid "Remember Me"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/buddypress/bp-loginform.php:44
+msgid "Log In"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/buddypress/bp-loginform.php:55
+msgid "Forum Topic Tags"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/buddypress/bp-searchform.php:4
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/theme-functions.php:8
+msgid "Search for:"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/buddypress/bp-widgets-functions.php:12
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/buddypress/bp-widgets-functions.php:19
+msgid "BuddyPress Search"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/buddypress/bp-widgets-functions.php:13
+msgid "Displays your BuddyPress Directory Search."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/buddypress/bp-widgets-functions.php:25
+msgid "Start Searching..."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/buddypress/bp-widgets-functions.php:44
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/buddypress/bp-widgets-functions.php:122
+msgid "Name"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/buddypress/bp-widgets-functions.php:96
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/buddypress/bp-widgets-functions.php:103
+msgid "BuddyPress Random Groups"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/buddypress/bp-widgets-functions.php:97
+msgid "Displays your BuddyPress Groups Randomly."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/category-color-functions.php:34
+msgid " Category Color Options"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/category-color-functions.php:34
+msgid "Category Color"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/category-color-functions.php:44
+msgid " Category Color Options Saved."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/category-color-functions.php:49
+msgid " Category Color Options Reset."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/category-color-functions.php:51
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/page-color-functions.php:34
+msgid ""
+"The color options only work if use custom menu for <strong>primary menu</"
+"strong> in appearance -> menus"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/category-color-functions.php:60
+msgid "Save Category Color"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/category-color-functions.php:66
+msgid "Are you sure you want to delete all saved category color?."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/category-color-functions.php:67
+msgid "Reset Category Color"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/category-color-functions.php:94
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/page-color-functions.php:79
+#, php-format
+msgid "Choose a color for %1$s"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/custom-header-functions.php:8
+msgid "Custom Header Overlay with logo:"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/custom-header-functions.php:13
+msgid "Yes"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/custom-header-functions.php:14
+msgid "No"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/custom-header-functions.php:15
+msgid "Header on top after Top Navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/custom-header-functions.php:51
+msgid "Custom Header Overlay"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/hooks-functions.php:28
+msgid "Select Page:"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/hooks-functions.php:31
+msgid "Select Category:"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/hooks-functions.php:150
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/hooks-functions.php:153
+#, php-format
+msgid "%s Theme by Dezzain"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/ms-css-functions.php:5
+msgid " Custom CSS"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/ms-css-functions.php:5
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-functions.php:366
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-functions.php:380
+msgid "Custom CSS"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/ms-css-functions.php:15
+msgid " Custom CSS saved."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/ms-css-functions.php:20
+msgid " Custom CSS Reset."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/ms-css-functions.php:30
+msgid "Save Custom CSS"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/ms-css-functions.php:36
+msgid "Are you sure you want to delete all saved custom css?."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/ms-css-functions.php:37
+msgid "Reset Custom CSS"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-functions.php:190
+msgid " Theme Options"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-functions.php:190
+msgid "Theme Options"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-functions.php:234
+msgid " settings saved."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-functions.php:237
+msgid " settings reset."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-functions.php:242
+msgid "Changelog"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-functions.php:242
+msgid "Frequently Ask Questions"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-functions.php:242
+msgid "Theme Support"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-functions.php:242
+msgid "Make a Donation"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-functions.php:250
+msgid "Save Options"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-functions.php:256
+msgid "Are you sure you want to delete all saved settings for this theme?."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-functions.php:257
+msgid "Reset Options"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-functions.php:291
+msgid " Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-functions.php:311
+msgid "Category Color Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-functions.php:340
+msgid "Pages Color Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-functions.php:374
+msgid "Insert Custom CSS for this theme"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-functions.php:532
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-functions.php:546
+msgid "Enable"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-functions.php:533
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-functions.php:547
+msgid "Disable"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-functions.php:560
+msgid "Thumbnail"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-functions.php:561
+msgid "Medium"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-functions.php:563
+msgid "Large"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-functions.php:576
+msgid "Default"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-functions.php:577
+msgid "Magazine"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:6
+msgid "Site Logo"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:7
+msgid "Enter your logo full url here."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:15
+msgid "Favourite Icon"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:16
+msgid "Enter your fav icon full url here"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:26
+msgid "Body Font"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:27
+msgid "Choose a font for the body text."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:34
+msgid "Body Font Weight"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:44
+msgid "Headline and Title Font"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:45
+msgid "Choose a font for the headline text."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:52
+msgid "Headline Font Weight"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:62
+msgid "Navigation Font"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:63
+msgid "Choose a font for the navigation text."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:71
+msgid "Navigation Font Weight"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:82
+msgid "Color Scheme"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:83
+msgid ""
+"Choose a color scheme that will be apply to default links color and sidebar "
+"widget header and footer widget header etc."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:90
+msgid "Top Navigation Background Color"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:91
+msgid "Choose a background color for top navigation."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:98
+msgid "Bottom Footer Background Color"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:99
+msgid "Choose a background color for bottom footer."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:107
+msgid "Featured Image Size"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:108
+msgid "Choose if you want to thumbnail, medium or large for featured images."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:115
+msgid "Blog Post Style"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:116
+msgid "Choose if you want to use magazine or normal blog post style."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:123
+msgid "Enter Post Excerpt Count"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:124
+msgid ""
+"Enter how many word count for all your post excerpt<br />*numeric only: "
+"25,55,100"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:131
+msgid "Enter Post Excerpt More Text"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:132
+msgid "Enter your own more text for the excerpt"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:139
+msgid "Enable Related Posts"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:140
+msgid "Enable or disable related posts"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:148
+msgid "How Many Related Posts?"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:149
+msgid "Choose how many related post you want to show."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:157
+msgid "Enable Author Bio"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:158
+msgid "Enable or disable author bio in single posts"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:166
+msgid "Enable Breadcrumbs"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:167
+msgid "Enable or disable breadcrumbs"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:175
+msgid "Enable Archive Header"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:176
+msgid "Enable or disable archive header"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:184
+msgid "Enable Comments Close Notice"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:185
+msgid "Enable or disable comments close notice"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:193
+msgid "Enable Auto Sub Category in Primary Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:194
+msgid "Enable or disable auto sub category show in primary menu"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:204
+msgid "Enable Custom Shop Style"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:205
+msgid ""
+"Choose if you want to use the built-in style for shop.<br /"
+"><small><em>*optional, only if you have woocommerce or jigoshop plugin "
+"installed.</em></small>"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:216
+msgid "Enable Featured Slider"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:217
+msgid "Choose if you want to enable or disable featured slider."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:226
+msgid "Slider Height"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:227
+msgid ""
+"Enter your desired slider height here<br /><small>example: 200,300,400</"
+"small>"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:234
+msgid "Categories ID"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:235
+msgid ""
+"Add a list of category ids if you want to use category as featured. "
+"<em>*leave blank to use bottom post ids featured</em><br /><small>example: "
+"3,4,68</small>"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:242
+msgid "Limit to how many posts"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:243
+msgid "How many posts in categories you listed you want to show?"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:252
+msgid "Posts ID"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:253
+msgid ""
+"Add a list of post ids if you want to use posts as featured. <em>*leave "
+"blank to use above category ids featured</em><br /><strong style='font-"
+"size:13px;'>Post, Page and Custom Post Type Supported</strong><br /"
+"><small>example: 136,928,925,80,77,55,49</small>"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:263
+msgid "Choose Your Featured Category Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:264
+msgid "Choose the layout style for the featured category."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:272
+msgid "Enable RSS Feed Link"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:273
+msgid "Choose if you want to enable or disable rss feed link in each category."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:281
+msgid "Homepage Featured Category 1"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:282
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:301
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:320
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:338
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:355
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:372
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:390
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:409
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:427
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:445
+msgid "Choose which category to featured."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:290
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:309
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:328
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:345
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:362
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:379
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:398
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:416
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:434
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:453
+msgid "How Many Posts?"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:291
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:310
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:329
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:346
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:363
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:380
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:399
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:417
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:435
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:454
+msgid "Choose how many post you want to show."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:300
+msgid "Homepage Featured Category 2"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:319
+msgid "Homepage Featured Category 3"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:337
+msgid "Homepage Featured Category 4"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:354
+msgid "Homepage Featured Category 5"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:371
+msgid "Homepage Featured Category 6"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:389
+msgid "Homepage Featured Category 7"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:408
+msgid "Homepage Featured Category 8"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:426
+msgid "Homepage Featured Category 9"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:444
+msgid "Homepage Featured Category 10"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:466
+msgid "468x60 or 728x90 Header Banner and Advertisment Embed Code"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:467
+msgid ""
+"Add Embed Code or Image Banner Here<br />*&lsaquo;script&rsaquo; tag not "
+"allowed. Read faq.txt on how to use script."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:475
+msgid "Advertisement in First Post Loop"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:476
+msgid ""
+"Insert Ads code for the blog post <strong>first</strong> loop. It will "
+"appeared after 2 posts.<br />*&lsaquo;script&rsaquo; tag not allowed. Read "
+"faq.txt on how to use script."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:484
+msgid "Advertisement in Second Post Loop"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:485
+msgid ""
+"Insert Ads code for the blog post <strong>second</strong> loop. It will "
+"appeared after 4 posts. <br />*&lsaquo;script&rsaquo; tag not allowed. Read "
+"faq.txt on how to use script."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:493
+msgid "Advertisement in Single Post Top"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:494
+msgid ""
+"Insert Ads code for the single post <strong>top</strong>. It will appeared "
+"before post content. <br />*&lsaquo;script&rsaquo; tag not allowed. Read faq."
+"txt on how to use script."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:502
+msgid "Advertisement in Single Post Bottom"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:503
+msgid ""
+"Insert Ads code for the single post <strong>bottom</strong>. It will "
+"appeared after post content.<br />*&lsaquo;script&rsaquo; tag not allowed. "
+"Read faq.txt on how to use script."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:511
+msgid "Advertisement in Right Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:512
+msgid ""
+"Insert Ads code for the <strong>right</strong> sidebar.<br />*&lsaquo;"
+"script&rsaquo; tag not allowed. Read faq.txt on how to use script."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:519
+msgid "Header Code Insert"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:520
+msgid ""
+"Insert any code here. It will appeared after wp_head().<br />*&lsaquo;"
+"script&rsaquo; tag not allowed. Read faq.txt on how to use script."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:527
+msgid "Footer Code Insert"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:528
+msgid ""
+"Insert any code here. It will appeared after wp_footer().<br />*&lsaquo;"
+"script&rsaquo; tag not allowed. Read faq.txt on how to use script."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:537
+msgid "Sidebar Banner Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:538
+msgid "Banner Ads 1"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:539
+msgid ""
+"Insert banner 1 HTML code.<br />*&lsaquo;script&rsaquo; tag not allowed. "
+"Read faq.txt on how to use script."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:546
+msgid "Banner Ads 2"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:547
+msgid ""
+"Insert banner 2 HTML code.<br />*&lsaquo;script&rsaquo; tag not allowed. "
+"Read faq.txt on how to use script."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:554
+msgid "Banner Ads 3"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:555
+msgid ""
+"Insert banner 3 HTML code.<br />*&lsaquo;script&rsaquo; tag not allowed. "
+"Read faq.txt on how to use script."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:562
+msgid "Banner Ads 4"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:563
+msgid ""
+"Insert banner 4 HTML code.<br />*&lsaquo;script&rsaquo; tag not allowed. "
+"Read faq.txt on how to use script."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:570
+msgid "Banner Ads 5"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:571
+msgid ""
+"Insert banner 5 HTML code.<br />*&lsaquo;script&rsaquo; tag not allowed. "
+"Read faq.txt on how to use script."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:578
+msgid "Banner Ads 6"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:579
+msgid ""
+"Insert banner 6 HTML code.<br />*&lsaquo;script&rsaquo; tag not allowed. "
+"Read faq.txt on how to use script."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:588
+msgid "Footer Credit"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:589
+msgid ""
+"Choose to disable or enable theme author footer credit links.<br /"
+"><em>*optional, but I would appreciate if you leave the footer credit link</"
+"em>"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:597
+msgid "Responsive Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/option-settings.php:598
+msgid ""
+"Choose to disable or enable theme responsive mode for smaller screen or "
+"mobile"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/page-color-functions.php:17
+msgid " Pages Color Options"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/page-color-functions.php:17
+msgid "Pages Color"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/page-color-functions.php:27
+msgid " Pages Color Options Saved."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/page-color-functions.php:31
+msgid " Pages Color Options Reset."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/page-color-functions.php:44
+msgid "Save Page Color"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/page-color-functions.php:50
+msgid "Are you sure you want to delete all saved settings for pages color?."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/page-color-functions.php:51
+msgid "Reset Page Color"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/theme-functions.php:9
+msgid "Type and Press Enter"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/theme-functions.php:30
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/theme-functions.php:37
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/theme-functions.php:39
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/theme-functions.php:41
+msgid "Archives for "
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/theme-functions.php:80
+msgid "&laquo; Previous"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/theme-functions.php:81
+msgid "Next &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/theme-functions.php:386
+msgid "Where to?"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/theme-functions.php:440
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:258
+msgid "Comment on"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/theme-functions.php:804
+msgid "F jS, Y"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/theme-functions.php:804
+msgid "at"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/theme-functions.php:806
+msgid "none"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/theme-functions.php:807
+#, php-format
+msgid "Comment author #%1$s on %2$s by %3$s"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/theme-functions.php:812
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/theme-functions.php:858
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/theme-functions.php:906
+msgid "One comment"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/theme-functions.php:907
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/theme-functions.php:908
+msgid "No Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/theme-functions.php:911
+msgid "One pingback/trackback"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/theme-functions.php:912
+msgid "% pingbacks/trackbacks"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/theme-functions.php:913
+msgid "No pinbacks/trackbacks"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/theme-functions.php:916
+msgid "One trackback"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/theme-functions.php:917
+msgid "% trackbacks"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/theme-functions.php:918
+msgid "No trackbacks"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/theme-functions.php:921
+msgid "One pingback"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/theme-functions.php:922
+msgid "% pingbacks"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/theme-functions.php:923
+msgid "No pingbacks"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/theme-functions.php:981
+msgid "ID"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/theme-functions.php:1063
+#, php-format
+msgid "Posts by %s"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:9
+msgid "Tabbed Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:11
+msgid "Sidebar Tabbed widget area"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:20
+msgid "Right Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:22
+msgid "Right sidebar widget area"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:32
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:45
+msgid "Shop Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:34
+msgid "Widget area for WooCommerce Shop Pages"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:47
+msgid "Widget area for Jigo Shop Pages"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:57
+msgid "Portfolio Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:59
+msgid "Widget area for Portfolio Pages"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:70
+msgid "Forum Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:72
+msgid "Widget area for BBPress Forum Pages"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:83
+msgid "BuddyPress Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:85
+msgid "Widget area for BuddyPress Pages"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:94
+msgid "First Footer Widget Area"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:96
+msgid "The first footer widget area"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:104
+msgid "Second Footer Widget Area"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:106
+msgid "The second footer widget area"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:114
+msgid "Third Footer Widget Area"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:116
+msgid "The third footer widget area"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:124
+msgid "Fourth Footer Widget Area"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:126
+msgid "The fourth footer widget area"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:145
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:152
+msgid "Most Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:146
+msgid "Display your most commented posts."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:187
+msgid "Name for most comment(optional):"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:191
+msgid "Total to show: "
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:196
+msgid "Show comments count:"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:198
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:286
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:383
+msgid "yes"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:199
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:287
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:384
+msgid "no"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:215
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:222
+msgid "Recent Gravatar Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:216
+msgid "Display your recent comments with user avatar."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:280
+msgid "Name for recent comment(optional):"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:284
+msgid "Enable avatar?:"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:292
+msgid "Total to show:"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:307
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:316
+msgid "Featured Categories"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:308
+msgid "Displays multi category posts with thumbnail."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:347
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/feat-cat-meta-bottom.php:14
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/feat-cat-meta-top.php:12
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/post-meta.php:28
+msgid "No Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:347
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/feat-cat-meta-bottom.php:14
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/feat-cat-meta-top.php:12
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/post-meta.php:28
+msgid "1 Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:347
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/feat-cat-meta-bottom.php:14
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/feat-cat-meta-top.php:12
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/post-meta.php:28
+msgid "% Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:373
+msgid "Title:"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:373
+msgid "*required"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:377
+msgid "Category ID:"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:377
+msgid "*separate by commas [,]"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:381
+msgid "Enable Thumbnails?:<br /><em>*post featured images</em>"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:388
+msgid "Thumbnails Size?:"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:390
+msgid "thumbnail"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:391
+msgid "medium"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/functions/widget-functions.php:395
+msgid "Total:"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/sliders/jd-gallery-slider.php:29
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/sliders/jd-gallery-slider.php:63
+msgid "Continue reading "
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/advertisement.php:16
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/home-feat-cat.php:58
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/home-feat-cat.php:84
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/home-feat-cat.php:110
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/home-feat-cat.php:134
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/home-feat-cat.php:158
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/home-feat-cat.php:181
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/home-feat-cat.php:208
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/home-feat-cat.php:233
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/home-feat-cat.php:258
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/home-feat-cat.php:282
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/related.php:24
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/related.php:63
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/author-bio.php:7
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/author-bio.php:11
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/breadcrumbs.php:18
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/breadcrumbs.php:28
+msgid "You are here: "
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/breadcrumbs.php:55
+msgid "Search results for"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/breadcrumbs.php:235
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/headline.php:13
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/headline.php:17
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/headline.php:21
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/headline.php:27
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/headline.php:41
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/headline.php:48
+msgid "Page"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/headline.php:13
+msgid "Latest News From The"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/headline.php:13
+msgid "Blog"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/headline.php:17
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/headline.php:36
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/headline.php:38
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/headline.php:40
+msgid "Archives for"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/headline.php:21
+msgid "Tag archives for"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/headline.php:27
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/headline.php:48
+msgid "Search result for &quot;"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/headline.php:48
+msgid "&quot;"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/headline.php:52
+msgid "Archive for"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/home-feat-cat.php:58
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/home-feat-cat.php:84
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/home-feat-cat.php:110
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/home-feat-cat.php:134
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/home-feat-cat.php:158
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/home-feat-cat.php:181
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/home-feat-cat.php:208
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/home-feat-cat.php:233
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/home-feat-cat.php:258
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/home-feat-cat.php:282
+msgid "Get Feed for"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/paginate.php:15
+msgid "Older Entries &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/paginate.php:16
+msgid "&laquo; Newer Entries"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/result.php:1
+msgid "No Result Found!"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/result.php:3
+msgid ""
+"Sorry, we can't find the category you're looking for at this URL. Please try "
+"selecting a menu item from above or to the side of this message to get where "
+"you'd like to go."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/result.php:5
+msgid ""
+"Sorry, we can't find the archive you're looking for at this URL. Please try "
+"selecting a menu item from above or to the side of this message to get where "
+"you'd like to go."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/result.php:7
+msgid ""
+"Sorry, we can't find the search keyword you're looking for. Please try "
+"selecting a menu item from above or to the side of this message to get where "
+"you'd like to go."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/result.php:9
+msgid ""
+"Sorry, we can't find the author you're looking for at this URL. Please try "
+"selecting a menu item from above or to the side of this message to get where "
+"you'd like to go."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/result.php:11
+msgid ""
+"Sorry, we can't find the post you're looking for at this URL. Please try "
+"selecting a menu item from above or to the side of this message to get where "
+"you'd like to go."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/result.php:13
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/lib/templates/result.php:15
+msgid ""
+"Sorry, we can't find the content you're looking for at this URL. Please try "
+"selecting a menu item from above or to the side of this message to get where "
+"you'd like to go."
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/page-templates/template-blog-full-content.php:46
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/page-templates/template-full-width.php:29
+msgid "...Continue reading"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/page-templates/template-blogroll.php:28
+msgid "Useful Resources:"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/page-templates/template-sitemap.php:35
+msgid "Archives by Month:"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/page-templates/template-sitemap.php:37
+msgid "Archives by Category:"
+msgstr ""
+
+#: C:\xampp\htdocs\dezzain\demo\wp-content\themes\mesocolumn/page-templates/template-sitemap.php:46
+msgid "Browse Last 50 Posts:"
+msgstr ""
